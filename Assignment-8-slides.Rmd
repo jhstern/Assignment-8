@@ -26,13 +26,13 @@ knitr::opts_chunk$set(echo = FALSE)
 # Data science
 
 ## Course topics  | 3 things I enjoyed learning about
-  1) Something I learned 
-  2) Something I learned 
-  3) Something I learned 
+  1) Version control with Git
+  2) Working with a database/PostgreSQL
+  3) R Markdown (specifically reporting and websites)
 
 ## Course topics  | 3 things I’d like to learn more about
-  1) A topic I'd like to learn more about
-  2) A topic I'd like to learn more about
-  3) A topic I'd like to learn more about
+  1) Working with data in the tidyverse
+  2) Coding in SQL
+  3) Project management and Agile methods
   
 ## {data-background=img/della.png data-background-size=cover}
